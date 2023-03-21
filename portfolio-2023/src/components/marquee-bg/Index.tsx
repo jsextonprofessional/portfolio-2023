@@ -1,3 +1,3 @@
-import { MarqueeBg } from "./MarqueeBG";
+import { MarqueeBG } from "./MarqueeBG";
 
-export { MarqueeBg };
+export { MarqueeBG };
